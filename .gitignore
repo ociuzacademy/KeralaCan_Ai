@@ -1,0 +1,10 @@
+env/
+venv/
+.venv/
+
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.keras
+models/*.pt
+models/*.pth
